@@ -2,7 +2,7 @@
 //sending email 
 $emailserver="protonmail.com";
 $receiptemail="Receipt@page.com";
-$emailSend = "cloudcoinbanker@protonmail.com"; //email of sender
+$emailSend = "email@protonmail.com"; //email of sender
 $emailPath="C:/Users/(name)/Documents/PHPEMAIL";//folder that contains automatic email sender
 $Esubject="CloudCoin Purchase!";//subject for emails to be sent
 $epass = "bmVGcTJxX1NRWHVlREk3NEd5RW9KQQ==";//password to smtp in base64

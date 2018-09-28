@@ -1,0 +1,100 @@
+[{"server":"RAIDA22","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:23:51"}]
+
+[{"server":"RAIDA11","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:23:51"}]
+
+[{"server":"RAIDA13","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:23:51"}]
+
+[{"server":"RAIDA17","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:23:51"}]
+
+[{"server":"RAIDA10","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:23:51"}]
+
+[{"server":"RAIDA23","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:27:00"}]
+
+[{"server":"RAIDA24","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:23:51"}]
+
+[{"server":"RAIDA6","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:23:51"}]
+
+[{"server":"RAIDA16","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:23:51"}]
+
+[{"server":"RAIDA7","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:23:51"}]
+
+[{"server":"RAIDA5","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:23:51"}]
+
+[{"server":"RAIDA3","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:23:51"}]
+
+[{"server":"RAIDA18","status":"fail","sn":"1195438","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","time":"2018-07-07 02:23:51"}] 
+
+[{"server":"RAIDA20","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:23:52"}]
+
+[{"server":"RAIDA1","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:23:52"}]
+
+[{"server":"RAIDA0","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:23:52"}]
+
+[{"server":"RAIDA15","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:23:52"}]
+
+[{"server":"RAIDA19","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:23:52"}]
+
+[{"server":"RAIDA14","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:23:30"}]
+
+[{"server":"RAIDA9","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:17:38"}]
+
+[{"server":"RAIDA12","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:23:52"}]
+
+[{"server":"RAIDA4","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:23:52"}]
+
+[{"server":"RAIDA21","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:23:52"}]
+
+[{"server":"RAIDA8","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:23:52"}]
+
+[{"server":"RAIDA2","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:23:52"}]
+
+[{"server":"RAIDA11","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:59:30"}]
+
+[{"server":"RAIDA22","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:59:30"}]
+
+[{"server":"RAIDA13","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:59:30"}]
+
+[{"server":"RAIDA10","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:59:30"}]
+
+[{"server":"RAIDA20","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:59:30"}]
+
+[{"server":"RAIDA23","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 03:02:40"}]
+
+[{"server":"RAIDA0","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:59:30"}]
+
+[{"server":"RAIDA7","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:59:31"}]
+
+[{"server":"RAIDA24","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:59:31"}]
+
+[{"server":"RAIDA16","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:59:31"}]
+
+[{"server":"RAIDA3","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:59:31"}]
+
+[{"server":"RAIDA18","status":"fail","sn":"1195438","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","time":"2018-07-07 02:59:31"}] 
+
+[{"server":"RAIDA17","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:59:31"}]
+
+[{"server":"RAIDA4","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:59:31"}]
+
+[{"server":"RAIDA1","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:59:31"}]
+
+[{"server":"RAIDA5","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:59:31"}]
+
+[{"server":"RAIDA14","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:59:10"}]
+
+[{"server":"RAIDA15","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:59:31"}]
+
+[{"server":"RAIDA9","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:53:17"}]
+
+[{"server":"RAIDA21","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:59:31"}]
+
+[{"server":"RAIDA12","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:59:31"}]
+
+[{"server":"RAIDA6","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:59:31"}]
+
+[{"server":"RAIDA8","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:59:31"}]
+
+[{"server":"RAIDA19","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:59:31"}]
+
+[{"server":"RAIDA2","status":"fail","message":"Counterfeit: The unit failed to authenticate on this server. You may need to fix it on other servers.","version":"2018-04-25","time":"2018-07-07 02:59:32"}]
+
